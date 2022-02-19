@@ -1,5 +1,11 @@
 # Wabanex
 
+This project was developed with the following technologies:
+
+- [Elixix](https://elixir-lang.org/)
+- [Phoenix](https://phoenixframework.org/)
+- [GraphQL](https://graphql.org)
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
@@ -17,3 +23,6 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+#
+
