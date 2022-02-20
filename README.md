@@ -1,6 +1,6 @@
 # Wabanex
 
-Project that registers user, training and training exercises
+Project that registers user, training and training exercises, developed at NLW Together from Rocketseat
 
 #
 
