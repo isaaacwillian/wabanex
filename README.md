@@ -1,10 +1,15 @@
 # Wabanex
 
+Project that registers user, training and training exercises
+
+#
+
 This project was developed with the following technologies:
 
 - [Elixix](https://elixir-lang.org/)
 - [Phoenix](https://phoenixframework.org/)
 - [GraphQL](https://graphql.org)
+- [PostgreSQL](https://www.postgresql.org/)
 
 To start your Phoenix server:
 
