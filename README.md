@@ -1,6 +1,6 @@
 # Wabanex
 
-Project that registers user, training and training exercises, developed at NLW Together from Rocketseat
+Project that registers user, training and training exercises, developed at NLW Together from <a href="https://www.rocketseat.com.br/">Rocketseat</a>
 
 #
 
